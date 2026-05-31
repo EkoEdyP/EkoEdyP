@@ -1,13 +1,5 @@
-<!-- Profile Views & Stats -->
-![Profile Views](https://komarev.com/ghpvc/?username=EkoEdyP&v=20251019-1)
-![GitHub Stars](https://img.shields.io/github/stars/EkoEdyP?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat&cacheSeconds=300&v=20251019-1)
-![GitHub Followers](https://img.shields.io/github/followers/EkoEdyP?cacheSeconds=300&v=20251019-1)
-
-<!-- OS Badges -->
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=ubuntu&v=20251019-1)
-![NixOS](https://img.shields.io/badge/OS-NixOS-blue?style=flat&logo=nixos&v=20251019-1)
-![Arch BTW](https://img.shields.io/badge/OS-Arch_BTW-blue?style=flat&logo=archlinux&v=20251019-1)
-[![Awesome Badge](https://awesome.re/mentioned-badge.svg?v=20251019-1)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<!-- Profile Views & Stats | OS Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=EkoEdyP&v=20251019-1) ![GitHub Stars](https://img.shields.io/github/stars/EkoEdyP?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat&cacheSeconds=300&v=20251019-1) ![GitHub Followers](https://img.shields.io/github/followers/EkoEdyP?cacheSeconds=300&v=20251019-1) ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=ubuntu&v=20251019-1) ![NixOS](https://img.shields.io/badge/OS-NixOS-blue?style=flat&logo=nixos&v=20251019-1) ![Arch BTW](https://img.shields.io/badge/OS-Arch_BTW-blue?style=flat&logo=archlinux&v=20251019-1) ![macOS](https://img.shields.io/badge/OS-macOS-black?style=flat&logo=apple&logoColor=white&v=20251019-1) [![Awesome Badge](https://awesome.re/mentioned-badge.svg?v=20251019-1)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 ---
 
