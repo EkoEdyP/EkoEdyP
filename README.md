@@ -29,9 +29,9 @@
 | **Message Queues**                   | ![][rabbitmq]                                                  |
 
 <!-- BADGE DEFINITIONS -->
-[aws]:            https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white
-[idcloudhost]:    https://img.shields.io/badge/IDCloudHost-0066CC?style=flat&logoColor=white
-[biznetgio]:      https://img.shields.io/badge/Biznet_Gio-E4002B?style=flat&logoColor=white
+[aws]:            https://img.shields.io/badge/AWS-232F3E?style=flat&logo=icloud&logoColor=white
+[idcloudhost]:    https://img.shields.io/badge/IDCloudHost-0066CC?style=flat&logo=icloud&logoColor=white
+[biznetgio]:      https://img.shields.io/badge/Biznet_Gio-E4002B?style=flat&logo=icloud&logoColor=white
 [terraform]:      https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white
 [ansible]:        https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white
 [docker]:         https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
@@ -41,7 +41,7 @@
 [jenkins]:        https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white
 [github-actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white
 [gitlab-ci]:      https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white
-[sonarqube]:      https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white
+[sonarqube]:      https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqubeserver&logoColor=white
 [osv-scanner]:    https://img.shields.io/badge/OSV--Scanner-4285F4?style=flat&logo=google&logoColor=white
 [prometheus]:     https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white
 [grafana]:        https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white
